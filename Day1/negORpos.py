@@ -1,0 +1,10 @@
+def sign(n):
+    if n<0:
+        print("Negative")
+    elif n>0:
+        print("Positive")
+    else:
+        print("Equal to Zero")
+
+n=int(input("Enter a number:"))
+sign(n)

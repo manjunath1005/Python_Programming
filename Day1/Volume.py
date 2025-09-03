@@ -1,0 +1,5 @@
+s=int(input("Enter the side of Cube:"))
+print("Volume of Cube is",s**3)
+r=int(input("Enter radius of Cylinder:"))
+h=int(input("Enter height of Cylinder:"))
+print("Volume of Cylinder is",3.14*r*r*h)
